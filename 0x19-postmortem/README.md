@@ -1,6 +1,6 @@
 # Postmortem
 
-<img src=./image.png width=50%>
+<img src=./image.gif >
 
 ## Issue Summary
 On May 5, 2023, from 9:00 AM to 12:00 PM GMT+2, users were unable to access our company's web application. The outage impacted all users attempting to log into the application during this time period, resulting in a 100% service outage. Users were experiencing a slow loading time or an error message when attempting to access the application.
